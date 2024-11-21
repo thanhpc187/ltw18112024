@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemesh>
+	<decorators>
+		<decorator page="product-list.jsp" />
+	</decorators>
+</sitemesh>
